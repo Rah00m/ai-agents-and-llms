@@ -1,0 +1,9 @@
+langchain-core
+langchain-community
+langchain-ollama
+langchain-text-splitters
+faiss-cpu
+pypdf
+pandas
+openpyxl
+pytest

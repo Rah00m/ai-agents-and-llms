@@ -1,0 +1,4 @@
+job_id,title,required_skills,preferred_skills,min_years_experience,description
+J1,Backend Python Developer,Python;FastAPI;SQL;Docker,PostgreSQL;AWS,3,Build and maintain REST APIs and data services in Python.
+J2,Frontend React Developer,React;JavaScript;TypeScript;CSS,Tailwind;Next.js,2,"Build accessible, high-quality user interfaces with React."
+J3,Machine Learning Engineer,Python;Machine Learning;scikit-learn;SQL,PyTorch;Docker,2,"Train, evaluate and deploy machine learning models."

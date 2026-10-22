@@ -1,0 +1,154 @@
+{
+  "sara-ahmed-dev": {
+    "repos": [
+      {
+        "name": "payments-api",
+        "language": "Python",
+        "stars": 41,
+        "description": "FastAPI payments service"
+      },
+      {
+        "name": "etl-toolkit",
+        "language": "Python",
+        "stars": 12,
+        "description": "ETL helpers"
+      },
+      {
+        "name": "dockerized-stack",
+        "language": "Shell",
+        "stars": 5,
+        "description": "Compose templates"
+      }
+    ]
+  },
+  "omar-hassan-ui": {
+    "repos": [
+      {
+        "name": "ui-kit",
+        "language": "TypeScript",
+        "stars": 88,
+        "description": "React component library"
+      },
+      {
+        "name": "next-blog",
+        "language": "TypeScript",
+        "stars": 17,
+        "description": "Blog with Next.js"
+      },
+      {
+        "name": "css-playground",
+        "language": "CSS",
+        "stars": 6,
+        "description": "Animations"
+      }
+    ]
+  },
+  "nour-k-ml": {
+    "repos": [
+      {
+        "name": "churn-model",
+        "language": "Python",
+        "stars": 33,
+        "description": "Churn prediction with scikit-learn"
+      },
+      {
+        "name": "ticket-nlp",
+        "language": "Python",
+        "stars": 21,
+        "description": "Transformer-based classifier"
+      },
+      {
+        "name": "ml-serving",
+        "language": "Python",
+        "stars": 9,
+        "description": "Model serving in Docker"
+      }
+    ]
+  },
+  "youssef-ali-fs": {
+    "repos": [
+      {
+        "name": "tasklify-web",
+        "language": "TypeScript",
+        "stars": 52,
+        "description": "React front end"
+      },
+      {
+        "name": "tasklify-api",
+        "language": "Python",
+        "stars": 38,
+        "description": "FastAPI back end"
+      },
+      {
+        "name": "node-utils",
+        "language": "JavaScript",
+        "stars": 7,
+        "description": "Utilities"
+      }
+    ]
+  },
+  "mariam-tarek-web": {
+    "repos": [
+      {
+        "name": "portfolio",
+        "language": "JavaScript",
+        "stars": 3,
+        "description": "Personal site"
+      },
+      {
+        "name": "react-todo",
+        "language": "JavaScript",
+        "stars": 2,
+        "description": "Practice app"
+      }
+    ]
+  },
+  "karim-m-java": {
+    "repos": [
+      {
+        "name": "spring-ledger",
+        "language": "Java",
+        "stars": 27,
+        "description": "Ledger service"
+      },
+      {
+        "name": "kafka-demos",
+        "language": "Java",
+        "stars": 10,
+        "description": "Event streaming samples"
+      }
+    ]
+  },
+  "hana-samir-data": {
+    "repos": [
+      {
+        "name": "sales-dashboard",
+        "language": "Python",
+        "stars": 14,
+        "description": "Sales analytics"
+      },
+      {
+        "name": "sql-recipes",
+        "language": "SQL",
+        "stars": 8,
+        "description": "Reusable queries"
+      }
+    ]
+  },
+  "ahmed-fathy-ops": {
+    "repos": [
+      {
+        "name": "terraform-modules",
+        "language": "HCL",
+        "stars": 30,
+        "description": "AWS modules"
+      },
+      {
+        "name": "k8s-tools",
+        "language": "Python",
+        "stars": 19,
+        "description": "Cluster automation scripts"
+      }
+    ]
+  }
+}
